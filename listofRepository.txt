@@ -1,4 +1,5 @@
 1. ACME nextjs dashboard
-https://github.com/johanhartono/nextjs-dashboard
+Code  : https://github.com/johanhartono/nextjs-dashboard
+Vercel: https://nextjs-dashboard-six-lime-u2d2dmu8zx.vercel.app/
 
 2. 
