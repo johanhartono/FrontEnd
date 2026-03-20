@@ -1,8 +1,11 @@
 1. ACME nextjs dashboard
 Code  : https://github.com/johanhartono/nextjs-dashboard
 Vercel: nextjs-dashboard-bb44f5ozh-johanhartonos-projects.vercel.app
+Official Tutorial from nextjs.org: https://nextjs.org/learn
 
 2. Movie Mania
 Code: https://github.com/johanhartono/movie_mania_app
 Vercel: https://moviemaniastudent-26at5mkjk-johanhartonos-projects.vercel.app/
+Udemy : https://www.udemy.com/user/mst-shobnom-mosthary/?srsltid=AfmBOopBKOFRDr1d21XInuydfxf3zWmcFFgVSkkGgIElkDS9OmcSIc20
+
 3.
