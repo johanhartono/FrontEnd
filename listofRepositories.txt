@@ -4,6 +4,5 @@ Vercel: nextjs-dashboard-bb44f5ozh-johanhartonos-projects.vercel.app
 
 2. Movie Mania
 Code: https://github.com/johanhartono/movie_mania_app
-https://github.com/johanhartono/movie_mania_app
-
+Vercel: https://moviemaniastudent-26at5mkjk-johanhartonos-projects.vercel.app/
 3.
