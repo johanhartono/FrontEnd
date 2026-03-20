@@ -2,4 +2,8 @@
 Code  : https://github.com/johanhartono/nextjs-dashboard
 Vercel: nextjs-dashboard-bb44f5ozh-johanhartonos-projects.vercel.app
 
-2. 
+2. Movie Mania
+Code: https://github.com/johanhartono/movie_mania_app
+https://github.com/johanhartono/movie_mania_app
+
+3.
