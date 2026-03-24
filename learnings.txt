@@ -1,0 +1,5 @@
+1. Learn NextJS with Daisy UI Components
+Repo: https://github.com/johanhartono/LearnNextJSDaisyUI.git
+Vercel:
+
+2.
